@@ -1,0 +1,27 @@
+{
+  "version": "6",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1716473964682,
+      "tag": "0000_clean_mentor",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1716474127680,
+      "tag": "0001_warm_trauma",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1716474258941,
+      "tag": "0002_worthless_marvel_zombies",
+      "breakpoints": true
+    }
+  ]
+}
